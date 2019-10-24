@@ -2,7 +2,7 @@
 layout: post
 title: 0x5E0x5E의 첫 글
 tags: [frontpage, jekyll, blog]
-image: '/images/posts/8.jpg'
+image: '/images/posts/7.jpg'
 ---
 
 처음으로 글을 써본다.

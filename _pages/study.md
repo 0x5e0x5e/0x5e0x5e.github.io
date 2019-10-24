@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 기억상실
-image: '/images/pages/styleguide.jpg'
+image: '/images/pages/about.jpg'
 ---
 
 천천히 등록할겁니다....
