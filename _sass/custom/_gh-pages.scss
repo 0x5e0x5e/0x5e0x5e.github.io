@@ -51,8 +51,18 @@
     }
 }
 
-// Logo Gradient
+// Logo Image
+.c-logo__image {
+    overflow: hidden;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    border: 1px solid #323232;
+    border-radius: 50%;
+    vertical-align: top;
+}
 
+// Logo Gradient
 .c-logo__link {
     background:linear-gradient(-60deg, #904e95, #904e95, #e73c7e, #ee7752);
     background-size:300%;
