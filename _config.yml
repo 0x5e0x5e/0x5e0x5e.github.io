@@ -10,10 +10,10 @@ title:       0x5E0x5E
 email:       'moon9set@gmail.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://0x5e0x5e.github.io/' # The base hostname & protocol for your site
+url:         'https://0x5e0x5e.github.io' # The base hostname & protocol for your site
 # twitter:     ''
-github:      'https://github.com/0x5e0x5e/'
-instagram:   'https://www.instagram.com/0x5e0x5e/'
+github:      'https://github.com/0x5e0x5e'
+instagram:   'https://www.instagram.com/0x5e0x5e'
 # facebook:    ''
 
 markdown:  kramdown
@@ -45,4 +45,4 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      permalink: /:basename/
