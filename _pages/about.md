@@ -4,12 +4,11 @@ title: About
 image: '/images/pages/profile.jpg'
 ---
 
+<center>
 ### 0x5E0x5E
 
-1986
+1986 / 남성 / 서울 거주 / IT 노동자
 
-남성
 
-서울 거주
 
-IT 노동자
+
