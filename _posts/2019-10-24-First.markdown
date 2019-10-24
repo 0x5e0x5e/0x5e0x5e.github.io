@@ -1,0 +1,12 @@
+---
+layout: post
+title: 0x5E0x5E의 첫 글
+tags: [frontpage, jekyll, blog]
+image: '/images/posts/8.jpg'
+---
+
+처음으로 글을 써본다.
+마크다운이 아직 익숙하지는 않지만
+노션으로 작성하고 Export 시켜야겠당....
+
+과연 지속적인 업데이트가 가능할까??
