@@ -26,8 +26,10 @@ $grid-gutter: $base-spacing-unit;
 
 .o-grid__col {
   float: left;
+  width: 100%;
   padding-right: $grid-gutter;
   padding-left: $grid-gutter;
+  box-sizing: border-box;
 
   &--1-4-s {
     width: percentage(1 / 4);
