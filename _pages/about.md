@@ -4,7 +4,7 @@ title: About
 image: '/images/pages/profile.jpg'
 ---
 
-{:.pg-about}
+{:.pg-about}테스트
 
 ### 0x5E0x5E
 
